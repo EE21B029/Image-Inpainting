@@ -4,3 +4,6 @@ technique that looks at the nearby parts of an image (exemplars) and uses that i
 that need to be taken out or fixed.\
 Here we used MATLAB to write the code .\
 Here we took datasets that contain the image and masked image and then finally obtained the impainted image .
+
+
+The Zip file contains the matlab codes.
